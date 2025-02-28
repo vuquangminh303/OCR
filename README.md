@@ -8,7 +8,7 @@
 
 1. **File trọng số của YOLO và ảnh chuẩn**
    - **Tên file:** `info_detection.pt` và `anchor.jpg`
-   - **Link tải:** [Ở đây]([https://drive.google.com/drive/folders/1IlJGSQp7N5JLvW9lUa8cSQeIIBvHCCZo?usp=sharing])
+   - **Link tải:** [Ở đây](https://drive.google.com/drive/folders/1IlJGSQp7N5JLvW9lUa8cSQeIIBvHCCZo?usp=sharing)
 
 > **Lưu ý:** Sau khi tải về, hãy đặt các file này vào cùng thư mục với file mã nguồn chính của dự án để chương trình có thể truy cập đúng.
 
